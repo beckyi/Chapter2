@@ -24,5 +24,12 @@ public class Point {
 		// TODO Auto-generated method stub
 		System.out.println("[x= "+x+", y= "+y+"]에 점을 그렸습니다.");
 	}
-	
+	public void show(boolean visible){
+		if(visible){
+			show();	//재사용
+			return;	//값 넘겨주도 않아도 종료
+		}else{
+			System.out.println("[x= "+x+", y= "+y+"]점을 지웠습니다.");
+		}
+	}
 }
