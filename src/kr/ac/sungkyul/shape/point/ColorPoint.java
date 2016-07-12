@@ -1,4 +1,4 @@
-package shpae;
+package kr.ac.sungkyul.shape.point;
 
 public class ColorPoint extends Point {
 

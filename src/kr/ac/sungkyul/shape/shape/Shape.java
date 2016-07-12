@@ -1,4 +1,4 @@
-package shpae;
+package kr.ac.sungkyul.shape.shape;
 
 public abstract class Shape {	//구현 X 메소드 (객체화 X)
 	private String lineColor;

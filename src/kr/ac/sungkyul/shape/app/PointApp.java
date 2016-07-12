@@ -1,4 +1,12 @@
-package shpae;
+package kr.ac.sungkyul.shape.app;
+
+import kr.ac.sungkyul.shape.i.Drawable;
+import kr.ac.sungkyul.shape.point.ColorPoint;
+import kr.ac.sungkyul.shape.point.Point;
+import kr.ac.sungkyul.shape.shape.Circle;
+import kr.ac.sungkyul.shape.shape.Pentagon;
+import kr.ac.sungkyul.shape.shape.Rectangle;
+import kr.ac.sungkyul.shape.shape.Triangle;
 
 public class PointApp {
 

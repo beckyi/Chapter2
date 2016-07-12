@@ -1,4 +1,6 @@
-package shpae;
+package kr.ac.sungkyul.shape.point;
+
+import kr.ac.sungkyul.shape.i.Drawable;
 
 public class Point implements Drawable {
 	private int x;
